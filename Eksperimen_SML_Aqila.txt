@@ -1,0 +1,9 @@
+Link GitHub Repository Eksperimen:
+https://github.com/https://github.com/apc208d6x0282-beep/Eksperimen_SML_AqilaLuthfiyyaMuadzahSubhan
+
+Deskripsi:
+Repository ini berisi notebook eksperimen yang mencakup:
+- Exploratory Data Analysis (EDA)
+- Data preprocessing
+- Data loading
+- Visualisasi data
